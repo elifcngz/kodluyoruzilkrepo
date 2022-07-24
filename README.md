@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Kodluyoruz Front-End Eğitimin
 Öncelikle projeyi clonelayın.
 https://github.com/elifcngz/kodluyoruzilkpreo.git
 
-# **Usaga**
+# **Usage**
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
