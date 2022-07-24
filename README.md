@@ -17,7 +17,7 @@ code
 
 # **Contributing**
 
-Pull requestler kabulş edilir. Büyük değişiklikler için, Lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, Lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # **Lıcense**
 [MIT](https://github.com/elifcngz/kodluyoruzilkpreo/blob/main/LICENSE)
